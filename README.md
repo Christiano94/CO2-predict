@@ -1,4 +1,4 @@
-# Enhancing Carbon Capture Efficiency using Functionalized Activated Carbon by Passion Fruit Peel Biomass
+# Carbon adsorption on waste biomass of passion fruit peel: A promising machine learning model for CO2 capture
 
 # Abstract
 The escalating concentration of carbon dioxide (CO2) in the atmosphere, primarily attributed to human activities, poses a substantial threat to the environment. To address this challenge, carbon capture and storage (CCS) technologies, including adsorption on carbonaceous materials, have emerged as promising solutions. Among these approaches, functionalized activated carbon by passion fruit peel biomass (FACPFP) stands out. This research aims to quantify the maximum CO2 capture at the laboratory scale using FACPFP and develop an improved machine learning model to predict CO2 capture efficiency.
