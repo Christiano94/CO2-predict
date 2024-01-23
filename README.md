@@ -14,7 +14,7 @@ The chemical activation process with K2C2O4 and EDA significantly enhances FACPF
 The predictive model's precision is improved with the selected machine learning approach.
 
 # Solution Strategy
-FACPFP was meticulously prepared and characterized using various techniques, including TGA, SEM with EDX, FTIR, and XPS. CO2 sorption was assessed using functional density theory (DFT). Additionally, a predictive model based on multiple linear regression with cross-validation was developed to improve CO2 adsorption prediction accuracy.
+FACPFP was meticulously prepared and characterized using various techniques, including TGA, SEM with EDX, FTIR, and XPS. CO2 sorption was assessed using functional density theory (DFT). Additionally, a predictive model based on multiple linear regression with cross-validation was developed to improve CO2 adsorption prediction precision.
 
 # Key Insights
 - For this research, BET surface area, total pore volume, and micropore volume explain about 61% of CO2 Capture.
@@ -29,7 +29,7 @@ The study culminates in the successful publication at the Journal of CO2 Uilizat
 The findings underscore the potential of FACPFP as an effective carbon capture material. The improved predictive model enhances our ability to forecast CO2 adsorption, opening avenues for further research in this critical area.
 
 # Next Steps
-It would be of great value to implement other more advanced machine learning models, such as Random Forest, and artificial neural networks to obtain a better R
+It would be of great value to implement other more advanced machine learning models, such as Random Forest, and artificial neural networks to obtain a better R.
 
 # Tools used
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
